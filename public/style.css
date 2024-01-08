@@ -553,6 +553,13 @@ textarea {
   
 }
 
+#piz{
+  position: relative;
+  right: -110px;
+  
+
+}
+
 /* Location, Phone, Email Section */
 .contact-list {
   list-style-type: none;
