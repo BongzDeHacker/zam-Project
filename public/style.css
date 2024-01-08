@@ -543,6 +543,15 @@ textarea {
 .direct-contact-container {
   max-width: 400px;
 }
+#bgB{
+  background-color: #0f0844;
+}
+
+#lin{
+  margin-left: 25%;
+  margin-top: 3%;
+  
+}
 
 /* Location, Phone, Email Section */
 .contact-list {
@@ -1595,7 +1604,7 @@ hr {
                                                                               }
                                                                               
                                                                               .contact-form {
-                                                                                background: #fff;
+                                                                                background: #0f0844;
                                                                                 margin-top: 10%;
                                                                                 margin-bottom: 5%;
                                                                                 width: 70%;
@@ -1606,6 +1615,7 @@ hr {
                                                                               }
                                                                               .contact-image {
                                                                                 text-align: center;
+                                                                              
                                                                               }
                                                                               .contact-image img {
                                                                                 border-radius: 6rem;
@@ -1624,6 +1634,19 @@ hr {
                                                                                 margin-top: -10%;
                                                                                 text-align: center;
                                                                                 color: #dc3545;
+                                                                              }
+                                                                              h3{
+                                                                                position: relative;
+                                                                                top: -30px;
+                                                                              }
+                                                                              .form-control{
+                                                                                position: relative;
+                                                                                top: -50px;
+                                                                              }
+                                                                              #mps{
+                                                                                position:relative;
+                                                                                margin-top: -280px;
+                                                                                right: -400px;
                                                                               }
                                                                               .contact-form .btnContact {
                                                                                 width: 50%;
@@ -1644,6 +1667,9 @@ hr {
                                                                                 background-color: #0062cc;
                                                                                 border: none;
                                                                                 cursor: pointer;
+                                                                              }
+                                                                              li{
+                                                                                color: #dc3545;
                                                                               }
                                                                               @media screen and (max-width: 410px) {
                                                                                 .contact-form .btnContact {
@@ -1748,5 +1774,6 @@ hr {
                                                                                   }
                                                                                  
                                                                                 }
+
                                                                                 
                                                                                 
